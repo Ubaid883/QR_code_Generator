@@ -1,0 +1,3 @@
+#install library
+
+pip install qrcode[pil]
