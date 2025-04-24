@@ -8,7 +8,7 @@ qr_code = qrcode.QRCode(version=1,
                         border=2)
 
 # Add path to which link
-qr_code.add_data("repo")
+qr_code.add_data("https://github.com/Ubaid883/QR_code_Generator")
 qr_code.make(fit=True)
 
 # Change background color and other aspect
