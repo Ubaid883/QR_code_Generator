@@ -30,4 +30,4 @@ Here’s a preview of what the QR code looks like:
 
 Scan it with your phone camera or a QR code scanner app to open this GitHub repo directly.
 
-![Alt Text](QR_code\github_repo_qrcode.png)
+![Alt Text](github_repo_qrcode.png)
